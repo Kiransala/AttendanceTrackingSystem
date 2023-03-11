@@ -1,4 +1,4 @@
-# SmartCheckIn[Attendance Tracking System]
+# SmartCheckIn(Attendance Tracking System)
 
 This is a Python script for a real-time attendance tracking system that uses face recognition to identify and log attendance of known students in a classroom or other environment.
 
@@ -35,3 +35,7 @@ The script also displays the video stream with text labels for recognized faces.
 - This script is designed to work with a single camera input.
 - The script can be modified to include more known students by adding their images and encodings to the code.
 - The script assumes that all known students are present at the beginning of the session.
+
+## **Contributing**
+
+If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions of all kinds, including bug fixes, feature requests, and documentation improvements.
