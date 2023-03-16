@@ -109,7 +109,7 @@ while True:
                 if name in students:
                     students.remove(name)
                     print(students)
-                    current_time = now.strftime("%H-%M-%S")
+                    current_time = now.strftime("%H:%M:%S")
                     lnwriter.writerow([name, current_time])
 
             # If the name of the recognized face is unknown, add a red text label to the frame
