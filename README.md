@@ -1,4 +1,4 @@
-#Attendance Tracking System
+# Attendance Tracking System
 
 This is a Python script for a real-time attendance tracking system that uses face recognition to identify and log attendance of known students in a classroom or other environment.
 
